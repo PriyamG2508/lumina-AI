@@ -1,0 +1,4 @@
+fastapi
+groq
+streamlit 
+python-dotenv
