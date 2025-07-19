@@ -2,3 +2,4 @@ fastapi
 groq
 streamlit 
 python-dotenv
+uvicorn
